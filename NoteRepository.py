@@ -1,6 +1,6 @@
 import json
 import os.path
-import NoteSerializer
+from NoteSerializer import NoteSerializer
 
 
 class NoteRepository:
